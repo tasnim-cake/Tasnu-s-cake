@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Homemade Cake</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #fff7f8;
+            color: #4a3035;
+        }
+
+        header {
+            background-color: #f3a6b8;
+            color: white;
+            text-align: center;
+            padding: 40px 20px;
+        }
+
+        header h1 {
+            font-size: 42px;
+            margin: 0;
+        }
+
+        .content {
+            max-width: 850px;
+            margin: 40px auto;
+            padding: 30px;
+            background-color: white;
+            border-radius: 20px;
+            box-shadow: 0 5px 18px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #c64f70;
+            text-align: center;
+        }
+
+        h3 {
+            color: #b54463;
+        }
+
+        p {
+            font-size: 17px;
+            line-height: 1.8;
+        }
+
+        .highlight {
+            background-color: #fff0f4;
+            padding: 20px;
+            border-left: 5px solid #f3a6b8;
+            border-radius: 10px;
+            margin: 25px 0;
+        }
+
+        footer {
+            background-color: #f3a6b8;
+            color: white;
+            text-align: center;
+            padding: 25px;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>🎂 Homemade Cake</h1>
+        <p>Sweetness Made With Love ❤️</p>
+    </header>
+
+    <div class="content">
+
+        <h2>About Cake 🍰</h2>
+
+        <p>
+            Cake is one of the most loved desserts around the world.
+            It can be made in many different flavors, shapes and sizes.
+            Chocolate, vanilla, strawberry, red velvet and many other
+            flavors make cake perfect for different occasions.
+        </p>
+
+        <h2>🏡 What Is Homemade Cake?</h2>
+
+        <p>
+            Homemade cake is a cake prepared at home using ingredients
+            such as flour, eggs, sugar, butter or oil, milk and baking
+            powder. Making cake at home allows us to choose our favorite
+            flavors and decorations.
+        </p>
+
+        <div class="highlight">
+            <h3>💕 Why We Love Homemade Cake</h3>
+
+            <p>
+                Homemade cakes are special because they are made with
+                care and creativity. Baking at home can be a fun activity
+                with family and friends, and sharing a freshly baked cake
+                can make celebrations even more memorable.
+            </p>
+        </div>
+
+        <h2>🎉 Perfect For Every Occasion</h2>
+
+        <p>
+            Homemade cakes are wonderful for birthdays, weddings,
+            festivals, family gatherings and other celebrations.
+            You can also bake a simple cake just to enjoy with a cup
+            of tea or coffee.
+        </p>
+
+        <h2>🍓 Different Cake Flavors</h2>
+
+        <p>
+            There are many delicious cake flavors to try, including
+            chocolate cake, vanilla cake, red velvet cake, lemon cake,
+            mango cake, strawberry cake, coconut cake and coffee cake.
+        </p>
+
+        <h2>❤️ The Sweetest Part</h2>
+
+        <p>
+            The best thing about homemade cake is not only its taste,
+            but also the happiness of making and sharing something
+            special with the people we love.
+        </p>
+
+    </div>
+
+    <footer>
+        <p>🍰 Homemade with Love • Happy Baking! 💕</p>
+    </footer>
+
+</body>
+</html>
